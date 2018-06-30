@@ -1,5 +1,5 @@
 exports.showSigin = (req, res) => {
-    res.send('showSiginde')
+    res.send('showSigin')
 }
 exports.signin = (req, res) => {
     res.send('signin')
@@ -13,3 +13,4 @@ exports.signup = (req, res) => {
 exports.signout = (req, res) => {
     res.send('signout')
 }
+// 这是一段测试代码
