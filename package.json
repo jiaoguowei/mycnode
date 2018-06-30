@@ -1,0 +1,26 @@
+{
+  "name": "mycnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaoguowei/mycnode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiaoguowei/mycnode/issues"
+  },
+  "homepage": "https://github.com/jiaoguowei/mycnode#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-art-template": "^1.0.1"
+  }
+}
