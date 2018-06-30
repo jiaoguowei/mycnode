@@ -1,5 +1,5 @@
 exports.showSigin = (req, res) => {
-    res.send('showSigin')
+    res.send('showSiginde')
 }
 exports.signin = (req, res) => {
     res.send('signin')
